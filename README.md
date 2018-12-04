@@ -9,7 +9,7 @@ Test Repository - Learning to use GIT
 ```
 # Support-Vector-Machine
 Gaussian and Polynomial Kernel SVM 
-<pre>
+
 Author: Sameer Kumar 🐱‍💻
 Date: 09/11/2018
 Read Me: 
@@ -30,4 +30,4 @@ made values below 1.0e-04 to be zero. For Non Support Vectors lagrange mulitplie
 greater than zero.
 5 - Postive Class is also represented by C_1 and Negative Class is also represented C_-1
 Note: I have also attached results. 📈👀
-</pre>
+
