@@ -6,13 +6,14 @@ Test Repository - Learning to use GIT
   1 - '# Heading1' this command in read me file will create a separate section with Heading1 as heading.
   2 - '## Sub Heading1' this command in read me file will create a sub heading with title as Sub Heading1.
   3 - ' ```bash <Insert your code/commands here> ```' open this readme.md file for more clarity. 
+  print('This is python \n')
 ```
 # Support-Vector-Machine
 Gaussian and Polynomial Kernel SVM 
 
-* Author: Sameer Kumar 🐱‍💻
-* Date: 09/11/2018
-* Read Me: 
+- Author: Sameer Kumar 🐱‍💻
+- Date: 09/11/2018
+- Read Me: 
 - This code is for building a Gaussian Kernel (RBF) Support Vector Machine (SVM) and the optimization 
 problem (Quadratic Programming) is solved using python cvxopt optimization toolbox.
 Polynomial Kernel SVM can also be build using this code. 
