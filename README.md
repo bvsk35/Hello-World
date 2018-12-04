@@ -1,7 +1,7 @@
 # Hello-World
 Test Repository - Learning to use GIT
-Hahahaha!!!!!!!!!!
-Hi Baboons!
-Welcome to my GIT HUB 
-I have THE BEST Repository in the MARS.
-I like Chipotle.
+# Test 1
+## Writing github readme file
+```bash
+python3 py execute python.py
+```
