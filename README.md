@@ -9,10 +9,8 @@ Test Repository - Learning to use GIT
   print('This is python \n')
 ```
 # Support-Vector-Machine
-Gaussian and Polynomial Kernel SVM 
-
-- Author: Sameer Kumar 🐱‍💻
-- Date: 09/11/2018 
+## Gaussian and Polynomial Kernel SVM 
+- Author & Date: Sameer Kumar 🐱‍💻 09/11/2018
 - This code is for building a Gaussian Kernel (RBF) Support Vector Machine (SVM) and the optimization 
 problem (Quadratic Programming) is solved using python cvxopt optimization toolbox.
 Polynomial Kernel SVM can also be build using this code. 
@@ -30,4 +28,3 @@ made values below 1.0e-04 to be zero. For Non Support Vectors lagrange mulitplie
 greater than zero.
 - Postive Class is also represented by C_{1} and Negative Class is also represented C_{-1}
 - Note: I have also attached results. 📈👀
-
