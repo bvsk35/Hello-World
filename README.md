@@ -29,5 +29,5 @@ Grid Size is controls the number of points to be searched on 1x1 grid to generat
 made values below 1.0e-04 to be zero. For Non Support Vectors lagrange mulitpliers are zero and for Support Vector they are
 greater than zero.
 - Postive Class is also represented by C_1 and Negative Class is also represented C_-1
-Note: I have also attached results. 📈👀
+- Note: I have also attached results. 📈👀
 
