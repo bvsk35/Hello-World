@@ -12,8 +12,7 @@ Test Repository - Learning to use GIT
 Gaussian and Polynomial Kernel SVM 
 
 - Author: Sameer Kumar 🐱‍💻
-- Date: 09/11/2018
-- Read Me: 
+- Date: 09/11/2018 
 - This code is for building a Gaussian Kernel (RBF) Support Vector Machine (SVM) and the optimization 
 problem (Quadratic Programming) is solved using python cvxopt optimization toolbox.
 Polynomial Kernel SVM can also be build using this code. 
